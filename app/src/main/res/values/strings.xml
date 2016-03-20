@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">麥當勞早餐APP</string>
+    <string name="order">結 帳</string>
+    <string name="cancel">取消餐點</string>
+    <string name="inside">內用</string>
+    <string name="outside">外帶</string>
+    <string name="tv_combo_context">點餐數量 :</string>
+    <string name="tv_combo_price">價格 :</string>
+    <string name="tv_combo_init_price">$0</string>
+    <string name="comboName1">1.滿福堡 X </string>
+    <string name="comboName2">\n2.豬肉滿福堡 X </string>
+    <string name="comboName3">\n3.豬肉滿福堡加蛋 X </string>
+    <string name="comboName4">\n4.滿福香雞堡 X </string>
+    <string name="comboName5">\n5.滿福鮮蘇堡 X </string>
+    <string name="comboName6">\n6.鮮蔬火腿蛋堡 X </string>
+    <string name="comboName7">\n7.吉事蛋堡 X </string>
+    <string name="comboName8">\n8.鮮蔬火腿蛋堡 X </string>
+    <string name="bag">\n +2 元購物袋 </string>
+    <string name="bag_xml"> +2 元購物袋 </string>
+</resources>
